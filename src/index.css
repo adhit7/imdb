@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-imdb-blue: #359eff;
+  --color-imdb-blue-dark: #2579cc;
+}
