@@ -1,12 +1,30 @@
-# React + Vite
+# 🎬 Cinephile
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Cinephile is a sleek movie app that showcases popular films using data from IMDb. It features a beautiful React frontend and a Node.js backend, allowing users to explore movie posters, titles, and descriptions.
 
-Currently, two official plugins are available:
+## Postman Collection
+https://www.postman.com/docking-module-geoscientist-21938421/imdb/collection/ot8zbvu/imdb?action=share&creator=33652833
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- Browse a curated collection of movies  
+- Display movie details and add/update movies.
+- Add actors and producers.
+- Vite + React + Redux Toolkit + Tailwind CSS frontend  
+- Node.js + Express backend + MongoDB
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Tech Stack
+
+- Frontend: Vite, React, Redux Toolkit and Tailwind CSS
+- Backend: Node.js, Express and MongoDB
+
+## 🔗 Live Demo
+
+Frontend - https://imdb-mu-ten.vercel.app/
+Backend - https://cinephile.up.railway.app/
+
+## ⚙️ Setup
+
+1️⃣ Clone the repo:
+```bash
+git clone https://github.com/adhit7/imdb.git
